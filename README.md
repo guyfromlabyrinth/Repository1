@@ -13,7 +13,7 @@ Hi👋,I'm Kartik Kumar, a 1st-year Computer Science student and GDG Volunteer a
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kartikkumarofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kartikkumarofficial&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkumarofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kartikkumarofficial&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
