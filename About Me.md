@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋,I'm Kartik Kumar, a 1st-year Computer Science student and GDG Volunteer at Maharishi Markandeshwar (Deemed to be University). I have experience working with HTML, CSS, Python, and MySQL, and I enjoy video editing as well. I'm always eager to expand my skill set and take on new challenges in the tech world." <br>
+Hi👋,I'm Kartik Kumar, a 1st-year Computer Science student and GDG Volunteer at Maharishi Markandeshwar (Deemed to be University). I have experience working with HTML, CSS, Python, and MySQL, and I enjoy video editing as well. I'm always eager to expand my skill set and take on new challenges in my learning journey. <br>
 
 
 ## 🌐 Socials:
